@@ -1,0 +1,12 @@
+.app {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.app__sections {
+    width: 100%;
+    min-height: 100vh;
+}
